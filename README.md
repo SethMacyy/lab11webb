@@ -6,8 +6,8 @@ Repository ini berisi hasil pengerjaan **Praktikum 11 dan Praktikum 12** mata ku
 
 ## 👤 Identitas Mahasiswa
 
-* **Nama** : Rizky Maulana
-* **NIM** : (312410430)
+* **Nama** : SURYA PUTRA DARMA JAYA
+* **NIM** : (312410405)
 * **Mata Kuliah** : Pemrograman Web
 * **Dosen Pengampu** : Agung Nugroho, S.Kom., M.Kom.
 * **Universitas** : Universitas Pelita Bangsa
